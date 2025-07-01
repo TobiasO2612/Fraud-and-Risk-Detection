@@ -6,6 +6,7 @@ Cada proyecto aborda un conjunto de datos diferente y aplica técnicas de cienci
 resolver problemas reales y construir modelos predictivos.
 
 🔍 Tecnologías y herramientas utilizadas:
+
   -Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
   -Jupyter Notebooks
